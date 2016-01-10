@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Server_sensor
+Exec=sudo /home/pi/server_sensor/server_sensor.sh
+Terminal=false
+Type=Application
+StartupNotify=true
+NoDisplay=false
